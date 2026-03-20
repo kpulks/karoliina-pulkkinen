@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 author: Karoliina Pulkkinen
-plugins:
-  - jekyll-remote-theme
+title: Karoliina Pulkkinen
+description: Philosopher and historian of science
+plugins: jekyll-remote-theme
