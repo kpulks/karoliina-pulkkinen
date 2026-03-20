@@ -1,39 +1,7 @@
-/* Styling for the portfolio */
-
-body {
-    font-family: Arial, sans-serif;
+.portfolio-item {
     margin: 20px;
-    padding: 20px0;
-    background-color: #f0f0f0;
 }
 
-.container {
-    width: 80%;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
+/* Existing styles */
 
-.header {
-    text-align: center;
-    padding: 10px;
-    background: #007bff;
-    color: white;
-}
-
-.header h1 {
-    margin: 20px;
-    font-size: 2.5em;
-}
-
-.section {
-    margin: 20px 0;
-}
-
-.footer {
-    text-align: center;
-    padding: 5px;
-    background: #333;
-    color: white;
-}
+/* Other content */
