@@ -1,2 +1,0 @@
-# karoliina-pulkkinen
-personal website
