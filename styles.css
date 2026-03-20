@@ -1,7 +1,57 @@
-.portfolio-item {
+/* Styling for the portfolio */
+body {
+    font-family: Arial, sans-serif;
     margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
 }
 
-/* Existing styles */
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
 
-/* Other content */
+.header {
+    text-align: center;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+}
+
+.header h1 {
+    margin: 20px;
+    font-size: 2.5em;
+}
+
+.section {
+    margin: 20px 0;
+}
+
+.footer {
+    text-align: center;
+    padding: 5px;
+    background: #333;
+    color: white;
+}
+
+.portfolio-item {
+    margin: 15px 0;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #007bff;
+    border-radius: 4px;
+}
+
+.portfolio-item h3 {
+    margin-top: 0;
+    color: #007bff;
+}
+
+.portfolio-item p {
+    margin: 10px 0;
+    line-height: 1.6;
+    color: #333;
+}
