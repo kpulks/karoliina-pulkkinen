@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
-title: My Portfolio
-description: A clean and minimal portfolio
 author: Karoliina Pulkkinen
 plugins:
   - jekyll-remote-theme
